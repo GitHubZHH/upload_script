@@ -1,8 +1,8 @@
 # upload_script
  
 脚本详情， 请查阅 [firim_upload.sh](./firim_upload.sh)。   
-## 上船样例
-![Result](./assets/Result.png)   
+## 上船样例  
+![Result](./assets/result.png)   
 
 ## 中心思想
 ### 1、通过脚本方便上船 **apk** 或者 **ipa** 文件。
